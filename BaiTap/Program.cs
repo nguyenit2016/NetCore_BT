@@ -47,3 +47,8 @@
 // double tienVND = soTien * tyGia;
 // Console.WriteLine($"{soTien}USD = {tienVND}VND");
 #endregion
+
+#region Bài tập buổi 08
+//Mình hơi bận nên chưa làm kịp bài tập buổi 08, memtor chấm điểm mình sau nhé. Thanks
+
+#endregion
