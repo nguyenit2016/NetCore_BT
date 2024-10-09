@@ -51,4 +51,38 @@
 #region Bài tập buổi 08
 //Mình hơi bận nên chưa làm kịp bài tập buổi 08, memtor chấm điểm mình sau nhé. Thanks
 
+// Bài 1
+// List<int> lst = new List<int>(){20, 81, 97, 63, 72, 11, 20, 15, 33, 15, 41, 20};
+// int sum = 0;
+// foreach (int item in lst) {
+//     sum += item;
+// }
+// Console.WriteLine(sum);
+
+// Bài 2
+// List<int> lst = new List<int>(){2, 7, 11, 15};
+// int target = 9;
+// for(int i = 0; i < lst.Count - 1; i++) {
+//     for(int j = i + 1; j < lst.Count; j++) {
+//         if (lst[i] + lst[j] == target) {
+//             int iValue = lst[i];
+//             int jValue = lst[j];
+//             Console.WriteLine($"[{i}, {j}] (vi nums[{i}] + nums[{j}] = {iValue} + {jValue} = {target})");
+//             break;
+//         }
+//     } 
+// }
+
+// Bài 3
+// List<int> lst = new List<int>(){1, 1, 2, 2, 2, 3, 4, 4, 5};
+// List<int> lstResult = new List<int>();
+// foreach(int item in lst) {
+//     if (!lstResult.Contains(item)) {
+//         lstResult.Add(item);
+//     }
+// }
+// Console.WriteLine(string.Join(",", lstResult));
+
+// Bài 4
+
 #endregion
